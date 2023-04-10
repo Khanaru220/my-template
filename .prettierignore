@@ -3,3 +3,6 @@ node_modules
 .eslintignore
 .gitignore
 LICENSE
+
+# Compiled & generated output
+/*/dist/

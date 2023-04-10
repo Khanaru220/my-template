@@ -1,4 +1,15 @@
-{
-  "singleQuote": true,
-  "semi": false
+ {
+	"printWidth": 80,
+	"tabWidth": 2,
+	"useTabs": false,
+	"semi": true,
+	"singleQuote": false,
+	"quoteProps": "as-needed",
+	"jsxSingleQuote": false,
+	"trailingComma": "all",
+	"bracketSpacing": true,
+	"bracketSameLine": false,
+	"arrowParens": "always",
+	"endOfLine": "lf",
+	"_comment": "mission of property 'semi'"
 }
