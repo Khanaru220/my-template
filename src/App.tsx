@@ -1,7 +1,8 @@
 import React from 'react'
 
-import './App.css'
+import Button from './components/Button'
 import { Counter } from './features/counter/Counter'
+import './App.css'
 import logo from './logo.svg'
 import { useGetDocsListQuery } from './services/docs'
 
@@ -60,6 +61,7 @@ const App: React.FC = () => {
           )}
         </p>
       </header>
+      <Button></Button>
     </main>
   )
 }
